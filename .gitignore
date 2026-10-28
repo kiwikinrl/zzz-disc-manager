@@ -5,6 +5,7 @@ converter
 node_modules
 
 # output
+dist
 out
 *.tgz
 

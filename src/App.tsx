@@ -135,7 +135,14 @@ export default function App() {
           </div>
         )}
       </div>
-      <footer className="status-bar">v{database.version} · Builds: {builds.length}</footer>
+      <footer className="status-bar">
+        <div>
+          v{database.version} · Builds: {builds.length}
+        </div>
+        <div>
+
+        </div>
+        </footer>
     </div>
   );
 }

@@ -7,14 +7,15 @@ interface DiscListProps {
   onSelect: (discSet: string) => void;
   search: string;
   onSearchChange: (value: string) => void;
+  onFilter?: () => void;
 }
 
-export default function DiscList({ discs, selected, onSelect, search, onSearchChange }: DiscListProps) {
+export default function DiscList({ discs, selected, onSelect, search, onSearchChange, onFilter }: DiscListProps) {
   return (
     <aside className="panel">
       <div className="panel-title">Discs</div>
       <div className="panel-search">
-        <SearchInput value={search} onChange={onSearchChange} placeholder="Search discs..." />
+        <SearchInput value={search} onChange={onSearchChange} placeholder="Search discs..." onFilter={onFilter} />
       </div>
       <ul className="panel-list">
         {discs

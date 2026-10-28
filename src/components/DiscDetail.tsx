@@ -3,6 +3,7 @@ import { getDisposalCandidates } from "../lib/dismantle";
 import { getDismantleStats, getKeepStats } from "../lib/recommended-stats";
 import HoverImage from "./HoverImage";
 import DiscStatsTable from "./DiscStatsTable";
+import SearchInput from "./SearchInput";
 import type { Build, Disc, EquippedDisc, Recommendation } from "../lib/types";
 
 interface DiscDetailProps {
@@ -12,18 +13,34 @@ interface DiscDetailProps {
   builds: Build[];
   onSelectCharacter: (character: string) => void;
   onSelectDisc: (discSet: string) => void;
+  search?: string;
+  onSearchChange?: (value: string) => void;
+  onFilter?: () => void;
 }
 
 function formatStatList(stats: string[]): string {
   return stats.length > 0 ? stats.join(", ") : "None";
 }
 
-export default function DiscDetail({ disc, discs, recommendations, builds, onSelectCharacter, onSelectDisc }: DiscDetailProps) {
+export default function DiscDetail({
+  disc,
+  discs,
+  recommendations,
+  builds,
+  onSelectCharacter,
+  onSelectDisc,
+  search = "",
+  onSearchChange = () => undefined,
+  onFilter,
+}: DiscDetailProps) {
   if (!disc) {
     return (
       <section className="detail">
         <h2>Discs</h2>
         <div className="detail-section">
+          <div className="panel-search">
+            <SearchInput value={search} onChange={onSearchChange} placeholder="Search discs..." onFilter={onFilter} />
+          </div>
           <div className="item-grid">
             {discs.map((d) => (
               <div key={d.set} className="item-grid-item">

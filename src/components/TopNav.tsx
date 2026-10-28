@@ -14,7 +14,7 @@ export default function TopNav({ activeTab, onTabChange, onExport, onImportFile,
   const fileRef = useRef<HTMLInputElement | null>(null);
   return (
     <header className="top-nav">
-      <div className="app-name"><img src={getDiscImage(disc)} alt="App Icon" /> ZZZ Disc Manager</div>
+      <a className="app-name" href={import.meta.env.BASE_URL || "/"}><img src={getDiscImage(disc)} alt="App Icon"/>ZZZ Disc Manager</a>
 
       <nav className="nav-middle">
         <button

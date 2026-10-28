@@ -1,6 +1,7 @@
 import { getDiscImage, getDiscBySet, getImageForCategory, getRecommendationsByCharacter, getRecommendedSets } from "../lib/recommend";
 import HoverImage from "./HoverImage";
 import DiscStatsTable from "./DiscStatsTable";
+import SearchInput from "./SearchInput";
 import type { Character } from "../lib/types";
 
 interface CharacterDetailProps {
@@ -8,6 +9,9 @@ interface CharacterDetailProps {
   characters: Character[];
   onSelectCharacter: (character: string) => void;
   onSelectDisc: (discSet: string) => void;
+  search?: string;
+  onSearchChange?: (value: string) => void;
+  onFilter?: () => void;
 }
 
 interface DiscRefProps {
@@ -25,12 +29,23 @@ function DiscRef({ discSet, onSelectDisc }: DiscRefProps) {
   );
 }
 
-export default function CharacterDetail({ character, characters, onSelectCharacter, onSelectDisc }: CharacterDetailProps) {
+export default function CharacterDetail({
+  character,
+  characters,
+  onSelectCharacter,
+  onSelectDisc,
+  search = "",
+  onSearchChange = () => undefined,
+  onFilter,
+}: CharacterDetailProps) {
   if (!character) {
     return (
       <section className="detail">
         <h2>Characters</h2>
         <div className="detail-section">
+          <div className="panel-search">
+            <SearchInput value={search} onChange={onSearchChange} placeholder="Search characters..." onFilter={onFilter} />
+          </div>
           <div className="item-grid">
             {characters.map((c) => (
               <div key={c.character} className="item-grid-item">

@@ -89,6 +89,12 @@ export default function App() {
     setTab("discs");
   };
 
+  // TODO: Filter button core logic (planned) - placeholder handler for now.
+  const handlePlaceholderFilter = () => undefined;
+
+  const showCharacterPanel = tab === "characters" && selectedCharacter !== null;
+  const showDiscPanel = tab === "discs" && selectedDisc !== null;
+
   return (
     <div className="app">
       <TopNav
@@ -101,29 +107,38 @@ export default function App() {
       <div className="content">
         {tab === "characters" ? (
           <div className="layout">
-            <CharacterList
-              characters={filteredCharacters}
-              selected={selectedCharacter}
-              onSelect={handleSelectCharacter}
-              search={characterQuery}
-              onSearchChange={setCharacterQuery}
-            />
+            {showCharacterPanel ? (
+              <CharacterList
+                characters={filteredCharacters}
+                selected={selectedCharacter}
+                onSelect={handleSelectCharacter}
+                search={characterQuery}
+                onSearchChange={setCharacterQuery}
+                onFilter={handlePlaceholderFilter}
+              />
+            ) : null}
             <CharacterDetail
               character={selectedCharacterData}
               characters={filteredCharacters}
               onSelectCharacter={handleSelectCharacter}
               onSelectDisc={handleSelectDisc}
+              search={characterQuery}
+              onSearchChange={setCharacterQuery}
+              onFilter={handlePlaceholderFilter}
             />
           </div>
         ) : (
           <div className="layout">
-            <DiscList
-              discs={filteredDiscs}
-              selected={selectedDisc}
-              onSelect={handleSelectDisc}
-              search={discQuery}
-              onSearchChange={setDiscQuery}
-            />
+            {showDiscPanel ? (
+              <DiscList
+                discs={filteredDiscs}
+                selected={selectedDisc}
+                onSelect={handleSelectDisc}
+                search={discQuery}
+                onSearchChange={setDiscQuery}
+                onFilter={handlePlaceholderFilter}
+              />
+            ) : null}
             <DiscDetail
               disc={selectedDiscData}
               discs={filteredDiscs}
@@ -131,6 +146,9 @@ export default function App() {
               builds={builds}
               onSelectCharacter={handleSelectCharacter}
               onSelectDisc={handleSelectDisc}
+              search={discQuery}
+              onSearchChange={setDiscQuery}
+              onFilter={handlePlaceholderFilter}
             />
           </div>
         )}
@@ -140,7 +158,7 @@ export default function App() {
           v{database.version} · Builds: {builds.length}
         </div>
         <div>
-          Hosted From: <a className="link-button" href="ttps://github.com/kiwikinrl/zzz-disc-manager">https://github.com/kiwikinrl/zzz-disc-manager</a>
+          Hosted From: <a className="link-button" href="https://github.com/kiwikinrl/zzz-disc-manager">https://github.com/kiwikinrl/zzz-disc-manager</a>
         </div>
         </footer>
     </div>

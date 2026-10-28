@@ -2,9 +2,10 @@ interface SearchInputProps {
   value: string;
   onChange: (value: string) => void;
   placeholder?: string;
+  onFilter?: () => void;
 }
 
-export default function SearchInput({ value, onChange, placeholder }: SearchInputProps) {
+export default function SearchInput({ value, onChange, placeholder, onFilter }: SearchInputProps) {
   return (
     <div className="search-input">
       <input
@@ -15,9 +16,16 @@ export default function SearchInput({ value, onChange, placeholder }: SearchInpu
         onChange={(event) => onChange(event.target.value)}
         aria-label={placeholder}
       />
-      {value.length > 0 ? (
-        <button type="button" className="search-clear" onClick={() => onChange("")} aria-label="Clear search">
-          ×
+      <div className="search-actions">
+        {value.length > 0 ? (
+          <button type="button" className="search-clear" onClick={() => onChange("")} aria-label="Clear search">
+            ×
+          </button>
+        ) : null}
+      </div>
+      {onFilter ? (
+          <button type="button" className="search-filter" onClick={onFilter}>
+          Filter
         </button>
       ) : null}
     </div>

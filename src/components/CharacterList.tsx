@@ -7,14 +7,15 @@ interface CharacterListProps {
   onSelect: (character: string) => void;
   search: string;
   onSearchChange: (value: string) => void;
+  onFilter?: () => void;
 }
 
-export default function CharacterList({ characters, selected, onSelect, search, onSearchChange }: CharacterListProps) {
+export default function CharacterList({ characters, selected, onSelect, search, onSearchChange, onFilter }: CharacterListProps) {
   return (
     <aside className="panel">
       <div className="panel-title">Characters</div>
       <div className="panel-search">
-        <SearchInput value={search} onChange={onSearchChange} placeholder="Search characters..." />
+        <SearchInput value={search} onChange={onSearchChange} placeholder="Search characters..." onFilter={onFilter} />
       </div>
       <ul className="panel-list">
         {characters.map((c) => (

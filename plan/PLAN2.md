@@ -4,6 +4,7 @@
 
 ### Item 7: Hover feedback for clickables
 - [x] For both clickable/navigable entries, add a hover effect that shows a small dialog with the item's image. (Custom hover dialog component; applied to new clickable entries only.)
+- [x] Dynamic & Live Positioning, move following cursor position & consider window border (show at invert position when no spaces)
 
 ### Item 8: Stats display (table)
 - [x] "Recommended Disc Drives Stats" & "Stats Required by Characters":
@@ -17,13 +18,13 @@
 - [x] Always sorted A - Z (left panel lists & default tab view grid).
 
 ### Item 11: Search
-- [ ] Add real-time search for Disc/Character support for with a clear "x" button within the right side of the search textbox. 
+- [x] Add real-time search for Disc/Character support for with a clear "x" button within the right side of the search textbox. 
   - [x] Left panel,
-  - [ ] Default tab view grid,
-- [ ] Add Filter button: as button placeholder first (core logic implement later)
+  - [x] Default tab view grid,
+- [x] Add Filter button: as button placeholder first (core logic implement later)
 
 ### Item 12: Grid view as whole
-- [ ] When no item is selected in grid view (especially first start up), hide left panel and show grid view + search bar only, as they show the same images and item name.
+- [x] When no item is selected in grid view (especially first start up), hide left panel and show grid view + search bar only, as they show the same images and item name.
 
 ## Bug Check & Fix
 - [x] In the Disc tab of Recommended Characters, when a disc is selected, some characters' 2-piece recommendations fail to be recognized/displayed.

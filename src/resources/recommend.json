@@ -1,0 +1,2957 @@
+{
+  "meta": {
+    "last_updated": "2026-Oct-24",
+    "Contributors": [
+      "KiwiKin",
+      "zenless-zone-zero.fandom.com/wiki/"
+    ],
+    "Note": "Remove /scale-to-width-down/30 from the link"
+  },
+  "recommend": [
+    {
+      "character": "Alice Thymefield",
+      "engine": [
+        "Practiced Perfection",
+        "Sharpened Stinger",
+        "Fusion Compiler",
+        "Weeping Gemini",
+        "Electro-Lip Gloss",
+        "Fusion Compiler"
+      ],
+      "disc": [
+        {
+          "4piece": "Fanged Metal",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Freedom Blues",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Freedom Blues",
+            "Fanged Metal",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2600 - 2900+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 330 - 420+",
+        "Anomaly Mastery%: 184+ (60 Higher in combat with Sig)"
+      ]
+    },
+    {
+      "character": "Anby Demara",
+      "engine": [
+        "Hellfire Gears",
+        "Steam Oven",
+        "Precious Fossilized Core",
+        "The Restrained",
+        "Demara Battery Mark II"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "Impact: 169 - 190+",
+        "ATK: 1700 - 2000+ (Optional)",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 50%+ (Needed for King of the Summit)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Soldier 0 - Anby",
+      "engine": [
+        "Severed Innocence",
+        "Cordis Germina",
+        "Heartstring Nocturne",
+        "Marcato Desire",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Shadow Harmony",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Thunder Metal",
+            "Branch & Blade Song",
+            "Puffer Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2800 - 3200+",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 58% - 78% (before Additional Ability and Shadow Harmony)",
+        "CRIT DMG: 160% - 200%+ (before Core Passive)"
+      ]
+    },
+    {
+      "character": "Anton Ivanov",
+      "engine": [
+        "Heartstring Nocturne",
+        "Zanshin Herb Case",
+        "The Brimstone",
+        "Street Superstar",
+        "Starlight Engine",
+        "Marcato Desire",
+        "Cannon Rotor",
+        "Gilded Blossom",
+        "Drill Rig - Red Axis"
+      ],
+      "disc": [
+        {
+          "4piece": "Thunder Metal",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Puffer Electro"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Thunder Metal"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Thunder Metal"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2300-2800+",
+        "HP: 9000+",
+        "DEF: 800+",
+        "CRIT RATE: 70-100%",
+        "CRIT DMG: 120-160%+"
+      ]
+    },
+    {
+      "character": "Aria",
+      "engine": [
+        "Angel in the Shell",
+        "Flight of Fancy",
+        "Electro-Lip Gloss",
+        "Weeping Gemini",
+        "Fusion Compiler"
+      ],
+      "disc": [
+        {
+          "4piece": "Phaethon's Melody",
+          "recommend-2piece": [
+            "Freedom Blues"
+          ],
+          "other-2piece": [
+            "Shining Aria"
+          ]
+        },
+        {
+          "4piece": "Shining Aria",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Freedom Blues"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "Ether DMG% = ATK%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2600 - 2900+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 330 - 420+",
+        "Anomaly Mastery: 184 - 244"
+      ]
+    },
+    {
+      "character": "Astra Yao",
+      "engine": [
+        "Elegant Vanity",
+        "Bashful Demon",
+        "Kaboom the Cannon",
+        "The Vault"
+      ],
+      "disc": [
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Hormone Punk"
+          ]
+        },
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Hormone Punk"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen = ATK%",
+        "subs": "ATK% > Flat ATK (Top Priorities Until Ability Cap) > Anomaly Proficiency > PEN"
+      },
+      "target": [
+        "ATK: 3430+",
+        "Because of the potency of this buff, reaching this ATK breakpoint is the most important thing Astra can do with her Set Bonus, Main Stats, Sub Stats, and W-Engine choice. Use each of these methods to stack ATK until you have enough.",
+        "HP: 10500+",
+        "DEF: 800+",
+        "Energy Regen: 0 - 130% (Dependant on Secondary Disc Set, Disc Main Stat and W-Engine)",
+        "CRIT RATE: Any Amount",
+        "CRIT DMG: Any Amount",
+        "Anomaly Proficiency: Any Amount"
+      ]
+    },
+    {
+      "character": "Banyue",
+      "engine": [
+        "Wrathful Vajra",
+        "Qingming Birdcage",
+        "Cauldron of Clarity",
+        "Grill O'Wisp",
+        "Puzzle Sphere",
+        "Radiowave Journey"
+      ],
+      "disc": [
+        {
+          "4piece": "Yunkui Tales",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG%",
+        "slot5": "Fire DMG%",
+        "slot6": "HP%",
+        "subs": "CRIT Rate = CRIT DMG > HP% > ATK% > Flat HP"
+      },
+      "target": [
+        "SHEER FORCE: 2200+",
+        "ATK: 1800 - 2000+",
+        "HP: 18,000+",
+        "DEF: 600+",
+        "CRIT RATE: 90 - 100% (In combat; Including Disc Drive Bonus & Signature Weapon)",
+        "CRIT DMG: 120 - 150%+"
+      ]
+    },
+    {
+      "character": "Ben Bigger",
+      "engine": [
+        "Tremor Trigram Vessel",
+        "Cloudcleave Radiance",
+        "Hailstorm Shrine",
+        "Severed Innocence",
+        "Heartstring Nocturne",
+        "Tremor Trigram Vessel"
+      ],
+      "disc": [
+        {
+          "4piece": "Inferno Metal",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Astral Voice",
+            "Puffer Electro"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Inferno Metal",
+            "Astral Voice",
+            "Puffer Electro"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Inferno Metal",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Fire DMG% = PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE% (aim for 70%+) = CRIT DMG% > ATK% > Flat PEN = Flat ATK"
+      },
+      "target": [
+        "ATK: 2700 - 3600+",
+        "HP: 11500+",
+        "DEF: 1400 - 2600+",
+        "CRIT RATE: 50% - 60%+",
+        "CRIT DMG: 100% - 120%+"
+      ]
+    },
+    {
+      "character": "Billy Kid",
+      "engine": [
+        "The Brimstone",
+        "Cloudcleave Radiance",
+        "Heartstring Nocturne",
+        "The Brimstone",
+        "Steel Cushion",
+        "Starlight Engine Replica",
+        "Starlight Engine",
+        "Street Superstar",
+        "Cannon Rotor",
+        "Gilded Blossom"
+      ],
+      "disc": [
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Puffer Electro"
+          ]
+        },
+        {
+          "4piece": "Shadow Harmony",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Puffer Electro"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Hormone Punk"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = CRIT DMG%",
+        "slot5": "PEN Ratio",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2400-2800+",
+        "HP: 9000+",
+        "DEF: 800+",
+        "CRIT RATE: 70-80%",
+        "CRIT DMG: 140-160%+"
+      ]
+    },
+    {
+      "character": "Starlight - Billy Kid",
+      "engine": [
+        "Starlight Rider Faceplate",
+        "Qingming Birdcage",
+        "Cauldron of Clarity",
+        "Steel Cushion",
+        "Grill O'Wisp",
+        "Puzzle Sphere",
+        "Radiowave Journey"
+      ],
+      "disc": [
+        {
+          "4piece": "Yunkui Tales",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Fanged Metal",
+            "Astral Voice",
+            "Bunny in Wonderland"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = CRIT DMG% = HP%",
+        "slot5": "Physical DMG%",
+        "slot6": "HP%",
+        "subs": "CRIT RATE > CRIT DMG = HP% > Flat HP > Flat ATK"
+      },
+      "target": [
+        "SHEER FORCE: 2200+",
+        "ATK: 1800 - 2000+",
+        "HP: 18,000+",
+        "DEF: 600+",
+        "CRIT RATE: 90 - 100% (In combat; Including Disc Drive Bonus & Signature Weapon)",
+        "CRIT DMG: 120 - 150%+"
+      ]
+    },
+    {
+      "character": "Burnice White",
+      "engine": [
+        "Flamemaker Shaker",
+        "Practiced Perfection",
+        "Electro-Lip Gloss",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Chaos Jazz",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2500 - 3200+ (Depends on the W-engine and Drive main stats)",
+        "HP: 9500 - 10000+",
+        "DEF: 800+",
+        "Anomaly Proficiency: 350 - 400+",
+        "Anomaly Mastery: 153+"
+      ]
+    },
+    {
+      "character": "Caesar King",
+      "engine": [
+        "Tusks of Fury",
+        "Original Transmorpher",
+        "Spring Embrace",
+        "Peacekeeper - Specialized"
+      ],
+      "disc": [
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "King of the Summit",
+            "Proto Punk"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "King of the Summit"
+          ]
+        },
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "King of the Summit",
+            "Proto Punk"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = Anomaly Proficiency",
+        "slot5": "Physical DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 1400 - 2000+ (Optional)",
+        "HP: 12000+",
+        "DEF: 1000+",
+        "IMPACT: 145 - 170+ (Most Important Stat)",
+        "Anomaly Proficiency: 250 - 330+ (Optional)",
+        "Anomaly Mastery: 87+ (Optional)",
+        "CRIT RATE: 50 - 60%+ (Optional)",
+        "CRIT DMG: 100 - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Cissia",
+      "engine": [
+        "Serpentine Seeker",
+        "Bellicose Blaze",
+        "Drill Rig - Red Axis",
+        "Cordis Germina",
+        "Severed Innocence"
+      ],
+      "disc": [
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Thunder Metal",
+            "Woodpecker Electro"
+          ]
+        },
+        {
+          "4piece": "Dawn's Bloom",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Astral Voice",
+            "Thunder Metal",
+            "Woodpecker Electro"
+          ]
+        },
+        {
+          "4piece": "Thunder Metal",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "Energy Regen",
+        "subs": "CRIT RATE = CRIT DMG = ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2500 - 2700+",
+        "HP: 9000+",
+        "DEF: 800+",
+        "CRIT RATE: 50% - 57% (with Signature W-Engine, pre-combat)",
+        "CRIT DMG: 110%+"
+      ]
+    },
+    {
+      "character": "Claret Flint",
+      "engine": [
+        "Crimson Thirst",
+        "Crimson Thirst",
+        "Bloodmarrow Coffer",
+        "Catty Luck",
+        "Catty Luck",
+        "Catty Luck"
+      ],
+      "disc": [
+        {
+          "4piece": "Thorned Rose",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Soul Rock",
+            "Thunder Metal",
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "PEN Ratio%",
+        "slot6": "DEF%",
+        "subs": "CRIT RATE > DEF% > CRIT DMG > PEN > DEF"
+      },
+      "target": [
+        "DEF: 2300- 2600+",
+        "HP: 9500+",
+        "CRIT RATE: 128,9% (with Signature)"
+      ]
+    },
+    {
+      "character": "Corin Wickes",
+      "engine": [
+        "Cordis Germina",
+        "Heartstring Nocturne",
+        "Steel Cushion",
+        "Myriad Eclipse",
+        "Housekeeper",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Fanged Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Fanged Metal",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2400 - 3000+",
+        "HP: 9000+",
+        "DEF: 800+",
+        "CRIT RATE: 70% - 80%+",
+        "CRIT DMG: 140% - 160%+"
+      ]
+    },
+    {
+      "character": "Dialyn",
+      "engine": [
+        "Yesterday Calls",
+        "Hellfire Gears",
+        "Steam Oven",
+        "Precious Fossilized Core"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen",
+        "subs": "CRIT RATE (until 100%) > CRIT DMG = ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2400+",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 80% - 100%",
+        "CRIT DMG: 100%+"
+      ]
+    },
+    {
+      "character": "Ellen Joe",
+      "engine": [
+        "Deep Sea Visitor",
+        "Myriad Eclipse",
+        "Cordis Germina",
+        "Heartstring Nocturne",
+        "Steel Cushion",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Polar Metal",
+            "Branch & Blade Song",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Polar Metal",
+            "Branch & Blade Song",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Shadow Harmony",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Branch & Blade Song",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT DMG >= CRIT Rate > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2600 - 3000+",
+        "HP: 9500+",
+        "DEF: 780+",
+        "CRIT RATE: 90 - 100%",
+        "CRIT DMG: 120% - 180%+"
+      ]
+    },
+    {
+      "character": "Evelyn Chevalier",
+      "engine": [
+        "Heartstring Nocturne",
+        "Severed Innocence",
+        "Cordis Germina",
+        "Starlight Engine",
+        "Steel Cushion"
+      ],
+      "disc": [
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE (Until 75% in stat screen) > CRIT DMG = ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2600 - 3400+",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 80 - 100% (including core passive)",
+        "CRIT DMG: 160 - 200%+"
+      ]
+    },
+    {
+      "character": "Grace Howard",
+      "engine": [
+        "Timeweaver",
+        "Practiced Perfection",
+        "Fusion Compiler",
+        "Electro-Lip Gloss",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Thunder Metal",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Phaethon's Melody",
+            "Freedom Blues",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Chaos Jazz",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Phaethon's Melody",
+            "Freedom Blues",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2300 - 3000+",
+        "HP: 9500+",
+        "DEF: 800+",
+        "Anomaly Mastery: 150 - 190+",
+        "Anomaly Proficiency: 350 - 450+"
+      ]
+    },
+    {
+      "character": "Asaba Harumasa",
+      "engine": [
+        "Cordis Germina",
+        "Zanshin Herb Case",
+        "The Brimstone",
+        "Heartstring Nocturne",
+        "Severed Innocence",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Thunder Metal",
+          "recommend-2piece": [
+            "Hormone Punk"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Shadow Harmony",
+            "Woodpecker Electro"
+          ]
+        },
+        {
+          "4piece": "Shadow Harmony",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "ATK%",
+        "subs": "Crit Rate (until 75% in stat screen) > ATK% > Crit DMG% > Flat PEN > Flat ATK"
+      },
+      "target": [
+        "ATK: 2600 - 3400+",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 75% (Not more)",
+        "CRIT DMG: 150-190%"
+      ]
+    },
+    {
+      "character": "Hugo Vlad",
+      "engine": [
+        "Myriad Eclipse",
+        "Cordis Germina",
+        "Heartstring Nocturne",
+        "Steel Cushion",
+        "Marcato Desire"
+      ],
+      "disc": [
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [
+            "Polar Metal"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Puffer Electro",
+            "Astral Voice",
+            "Branch & Blade Song"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Polar Metal"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Hormone Punk",
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG%",
+        "slot5": "Ice DMG%",
+        "slot6": "ATK%",
+        "subs": "CRIT Rate > CRIT DMG > ATK% > Flat ATK > PEN"
+      },
+      "target": [
+        "ATK: 2600 - 3000+",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 70 - 88%",
+        "CRIT DMG: 160 - 200%+"
+      ]
+    },
+    {
+      "character": "Jane Doe",
+      "engine": [
+        "Sharpened Stinger",
+        "Practiced Perfection",
+        "Sharpened Stinger",
+        "Fusion Compiler",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Fanged Metal",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Phaethon's Melody",
+            "Freedom Blues",
+            "Astral Voice",
+            "White Water Ballad"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency >= ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2300 - 2800+",
+        "HP: 9000 - 10000+",
+        "DEF: 800+",
+        "Anomaly Proficiency: 375 - 420+ (IN COMBAT; 420 Required for cap of 600 Flat Combat Attack in Passion State)",
+        "Anomaly Mastery: 192+"
+      ]
+    },
+    {
+      "character": "Ju Fufu",
+      "engine": [
+        "Roaring Fur-nace",
+        "Blazing Laurel",
+        "Hellfire Gears",
+        "Precious Fossilized Core"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro",
+            "Astral Voice",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Swing Jazz",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = ATK%",
+        "slot5": "ATK%",
+        "slot6": "Impact = ATK%",
+        "subs": "CRIT Rate (until 50% if using 4P King) > ATK/Flat ATK (until max. 3400) > CRIT DMG > PEN"
+      },
+      "target": [
+        "IMPACT: 139 - 160+",
+        "ATK: 3100-3400",
+        "HP: 11,000+",
+        "DEF: 850+",
+        "CRIT RATE: 50%+ (If using 4P King of the Summit)"
+      ]
+    },
+    {
+      "character": "Kafka",
+      "engine": [],
+      "disc": [],
+      "disc-stat": {},
+      "target": []
+    },
+    {
+      "character": "Koleda Belobog",
+      "engine": [
+        "Hellfire Gears",
+        "Precious Fossilized Core",
+        "Blazing Laurel",
+        "Hellfire Gears",
+        "Steam Oven",
+        "Chief Sidekick"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Fire DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE > CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "Impact: 166 - 190+",
+        "ATK: 1700 - 2000+ (Optional)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 50%+ (Needed for King of the Summit)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Lighter",
+      "engine": [
+        "Blazing Laurel",
+        "Ice-Jade Teapot",
+        "Hellfire Gears",
+        "Precious Fossilized Core",
+        "The Restrained"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "ATK% = Fire DMG% = PEN Ratio%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE > CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "Impact: 170 - 195+",
+        "ATK: 1700 - 2000+ (Optional)",
+        "HP: 10500+",
+        "DEF: 800+",
+        "CRIT RATE: 50%+ (Needed for King of the Summit)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Lucia Elowen",
+      "engine": [
+        "Dreamlit Hearth",
+        "Weeping Cradle",
+        "Kaboom the Cannon",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Yunkui Tales"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "HP%",
+        "slot5": "HP%",
+        "slot6": "HP%",
+        "subs": "HP% > HP > CRIT Rate >= CRIT DMG"
+      },
+      "target": [
+        "ATK: 1800+",
+        "HP: 22000 - 24000+ (Focus on hitting 24000!)",
+        "DEF: 800+"
+      ]
+    },
+    {
+      "character": "Luciana de Montefio",
+      "engine": [
+        "Kaboom the Cannon",
+        "Weeping Cradle",
+        "Slice of Time",
+        "[Reverb] Mark II",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Phaethon's Melody",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Phaethon's Melody",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Swing Jazz",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Phaethon's Melody",
+            "Chaos Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen = ATK%",
+        "subs": "ATK% (top priority until ability cap) = CRIT RATE = CRIT DMG > PEN = ATK"
+      },
+      "target": [
+        "ATK:",
+        "2000 (Lvl 15 Special)",
+        "2475 (Lvl 10 Special)",
+        "2700 (Lvl 8 Special)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 40% - 60%+ (Optional)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Von Lycaon",
+      "engine": [
+        "Blazing Laurel",
+        "Precious Fossilized Core",
+        "Steam Oven",
+        "Hellfire Gears",
+        "The Restrained"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Ice DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "Impact: 169 - 190+",
+        "ATK: 2000 - 2200+ (Optional)",
+        "HP: 10500+",
+        "DEF: 850+",
+        "CRIT RATE: 50%+ (Needed for King of the Summit)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Komano Manato",
+      "engine": [
+        "Grill O'Wisp",
+        "Wrathful Vajra",
+        "Grill O'Wisp",
+        "Qingming Birdcage",
+        "Radiowave Journey",
+        "Puzzle Sphere"
+      ],
+      "disc": [
+        {
+          "4piece": "Yunkui Tales",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = CRIT DMG%",
+        "slot5": "Fire DMG%",
+        "slot6": "HP%",
+        "subs": "CRIT Rate = CRIT DMG > HP% > HP > ATK% > ATK"
+      },
+      "target": [
+        "SHEER FORCE: 2100 - 2400+",
+        "ATK: 1800+",
+        "HP: 18000+",
+        "DEF: 600+",
+        "CRIT RATE: 44% - 66%+ (90 - 100% in-combat)",
+        "CRIT DMG: 120% - 150%+ (before combat)"
+      ]
+    },
+    {
+      "character": "Hoshimi Miyabi",
+      "engine": [
+        "Hailstorm Shrine",
+        "Fusion Compiler",
+        "Electro-Lip Gloss",
+        "Rainforest Gourmet",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Branch & Blade Song",
+          "recommend-2piece": [
+            "Polar Metal"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Puffer Electro",
+            "Woodpecker Electro"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Polar Metal"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Puffer Electro",
+            "Branch & Blade Song"
+          ]
+        },
+        {
+          "4piece": "Polar Metal",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Branch & Blade Song",
+            "Puffer Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Ice DMG% = ATK%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE (Until 80%) >= CRIT DMG = ATK% > Anomaly Proficiency = ATK = PEN"
+      },
+      "target": [
+        "ATK: 2500 - 3600+ (Depending on Disc Drive main stat choice)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "Anomaly Mastery: 116+",
+        "Anomaly Proficiency: 240+",
+        "CRIT RATE: 75-95%",
+        "CRIT DMG: 150-190%"
+      ]
+    },
+    {
+      "character": "Nangong Yu",
+      "engine": [
+        "Neon Fantasies",
+        "Hellfire Gears",
+        "The Simmering Pot",
+        "Precious Fossilized Core",
+        "Roaring Fur-nace"
+      ],
+      "disc": [
+        {
+          "4piece": "Phaethon's Melody",
+          "recommend-2piece": [
+            "Freedom Blues"
+          ],
+          "other-2piece": [
+            "Shining Aria",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "Ether DMG% = ATK%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2,200 - 2,500+",
+        "HP: 9,500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 280 - 350+",
+        "Anomaly Mastery: 173 - 211"
+      ]
+    },
+    {
+      "character": "Nekomiya Mana",
+      "engine": [
+        "Steel Cushion",
+        "Steel Cushion",
+        "Heartstring Nocturne",
+        "Cordis Germina",
+        "Severed Innocence",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Fanged Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Fanged Metal",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE (Until 100%) >= CRIT DMG = ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2500 - 3100+ (Optional)",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 70% - 80%+",
+        "CRIT DMG: 140% - 160%+"
+      ]
+    },
+    {
+      "character": "Nicole Demara",
+      "engine": [
+        "The Vault",
+        "Weeping Cradle",
+        "Kaboom the Cannon",
+        "Slice of Time",
+        "[Reverb] Mark II",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Swing Jazz",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Chaos Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK% = Anomaly Proficiency",
+        "slot5": "Ether DMG%",
+        "slot6": "Energy Regen = ATK%",
+        "subs": "Anomaly Proficiency = ATK% > PEN = FLAT ATK"
+      },
+      "target": [
+        "ATK: 2000 - 2400+ (Optional)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "Anomaly Proficiency: 200 - 320+(Optional)"
+      ]
+    },
+    {
+      "character": "Norma Hollowell",
+      "engine": [
+        "Chief Sidekick",
+        "Chief Sidekick",
+        "Hellfire Gears",
+        "Steam Oven",
+        "Blazing Laurel",
+        "Hellfire Gears",
+        "The Simmering Pot"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Woodpecker Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Fire DMG%",
+        "slot6": "Energy Regen = Impact%",
+        "subs": "CRIT RATE (until 100% in combat) > CRIT DMG = ATK% > Flat PEN > Flat ATK"
+      },
+      "target": [
+        "ATK: 2400+",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 80% - 100%",
+        "CRIT DMG: 100%+"
+      ]
+    },
+    {
+      "character": "Orphie Magnusson & Magus",
+      "engine": [
+        "Bellicose Blaze",
+        "Heartstring Nocturne",
+        "Severed Innocence",
+        "Myriad Eclipse",
+        "Cordis Germina",
+        "Gilded Blossom",
+        "Marcato Desire"
+      ],
+      "disc": [
+        {
+          "4piece": "Shadow Harmony",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Moonlight Lullaby"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Moonlight Lullaby"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG% = CRIT Rate%",
+        "slot5": "Fire DMG%",
+        "slot6": "Energy Regen",
+        "subs": "CRIT DMG = CRIT Rate > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2500 - 2700+",
+        "HP: 10000+",
+        "DEF: 900+",
+        "CRIT RATE: 90 - 100% (Including Orphie Passive & Disc Drive Passive)",
+        "CRIT DMG: 120%+",
+        "Energy Regen: 80%+"
+      ]
+    },
+    {
+      "character": "Pan Yinhu",
+      "engine": [
+        "Tusks of Fury",
+        "Tremor Trigram Vessel",
+        "Spring Embrace",
+        "Peacekeeper - Specialized"
+      ],
+      "disc": [
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Hormone Punk"
+          ],
+          "other-2piece": [
+            "Swing Jazz",
+            "Fanged Metal"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "Hormone Punk"
+          ],
+          "other-2piece": [
+            "Swing Jazz",
+            "Fanged Metal"
+          ]
+        },
+        {
+          "4piece": "Swing Jazz",
+          "recommend-2piece": [
+            "Hormone Punk"
+          ],
+          "other-2piece": [
+            "Fanged Metal"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = CRIT DMG%",
+        "slot5": "Physical DMG%",
+        "slot6": "ATK%",
+        "subs": "ATK%/Flat ATK (until 3000 ATK) > CRIT Rate = CRIT DMG > PEN"
+      },
+      "target": [
+        "ATK: 3000+",
+        "HP: 10000+",
+        "DEF: 800+"
+      ]
+    },
+    {
+      "character": "Phoenix Reffaella",
+      "engine": [
+        "Plume of Rebirth",
+        "Plume of Rebirth",
+        "Angel in the Shell",
+        "Electro-Lip Gloss",
+        "Flight of Fancy",
+        "Weeping Gemini",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Chaos Jazz",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Feathered Fate",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "Fire DMG%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2400 - 2600+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 330 - 420+",
+        "Anomaly Mastery: 255"
+      ]
+    },
+    {
+      "character": "Piper Wheel",
+      "engine": [
+        "Practiced Perfection",
+        "Sharpened Stinger",
+        "Weeping Gemini",
+        "Roaring Ride",
+        "Electro-Lip Gloss"
+      ],
+      "disc": [
+        {
+          "4piece": "Fanged Metal",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Chaos Jazz",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio% = ATK% = Physical DMG%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2500-2800+",
+        "HP: 9000+",
+        "DEF: 800+",
+        "Anomaly Mastery: 150+",
+        "Anomaly Proficiency: 350 - 450+"
+      ]
+    },
+    {
+      "character": "Promeia",
+      "engine": [
+        "Frostfall Sickle",
+        "Fusion Compiler",
+        "Angel in the Shell",
+        "Fusion Compiler",
+        "Electro-Lip Gloss",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Notes From the Chained",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Freedom Blues",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "Ice DMG% = ATK%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2600 - 2900+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 287 - 350+ (add +90 to values if Anomaly Proficiency mainstat W-Engine)",
+        "Anomaly Mastery: 184 - 248"
+      ]
+    },
+    {
+      "character": "Pulchra Fellini",
+      "engine": [
+        "Blazing Laurel",
+        "Box Cutter",
+        "Steam Oven",
+        "Hellfire Gears",
+        "Box Cutter",
+        "Precious Fossilized Core",
+        "[Vortex] Arrow",
+        "Six Shooter"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "ATK% = Physical DMG%",
+        "slot6": "Impact",
+        "subs": "Anomaly Profiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 1800 - 2200+ (Optional)",
+        "HP: 10000+",
+        "DEF: 850+",
+        "IMPACT: 169 - 189+ (Most Important Stat)",
+        "Option 1 (Anomaly teams):",
+        "Anomaly Mastery: 92+ (Optional)",
+        "Option 2 (Crit teams):",
+        "CRIT DMG: 100 - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Pyrois",
+      "engine": [
+        "Sol Exuvia",
+        "Sol Exuvia",
+        "Cordis Germina"
+      ],
+      "disc": [
+        {
+          "4piece": "The Sky Ablaze",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Chaotic Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE (until 100% in combat) > CRIT DMG = ATK% > Flat PEN > Flat ATK"
+      },
+      "target": [
+        "ATK: 2800 - 3200+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "CRIT RATE: 57% - 72% (before Sol Exuvia and M1)",
+        "CRIT DMG: 140% - 180%+"
+      ]
+    },
+    {
+      "character": "Qingyi",
+      "engine": [
+        "Ice-Jade Teapot",
+        "The Restrained",
+        "Steam Oven",
+        "Precious Fossilized Core"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE > CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "Impact: 169 - 193+",
+        "ATK: 1800 - 2000+ (Optional - gains more in combat)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 50%+ (Needed for King of the Summit)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Remielle Dan",
+      "engine": [
+        "Ode of Resurrected Wings",
+        "Ode of Resurrected Wings",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Feathered Fate",
+          "recommend-2piece": [
+            "Freedom Blues"
+          ],
+          "other-2piece": [
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "ATK%",
+        "slot6": "ATK%",
+        "subs": "ATK% (until 4000 in statscreen) > Anomaly Proficiency > PEN"
+      },
+      "target": [
+        "ATK: 4000 (going above this does not add meaningful damage)",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 370 - 460+ (may have a big range depending on Anomaly Proficiency D4 and 2-piece)"
+      ]
+    },
+    {
+      "character": "Alexandrina Sebastiane",
+      "engine": [
+        "Weeping Cradle",
+        "Weeping Cradle",
+        "Kaboom the Cannon"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK% = Anomaly Proficiency = CRIT Rate",
+        "slot5": "PEN Ratio%",
+        "slot6": "Energy Regen",
+        "subs": "Anomaly Proficiency = CRIT Rate = ATK% > CRIT DMG > PEN > FLAT ATK"
+      },
+      "target": [
+        "ATK: 2000 - 2600+ (Optional)",
+        "HP: 10500+",
+        "DEF: 800+",
+        "Anomaly Proficiency: 200 - 300 (Optional)",
+        "PEN RATIO: 38% - 72% (72% Grants full 30% team buff at Core Passive 6)"
+      ]
+    },
+    {
+      "character": "Robin",
+      "engine": [],
+      "disc": [],
+      "disc-stat": {},
+      "target": []
+    },
+    {
+      "character": "Roxy Ifrita Pryce",
+      "engine": [
+        "Crimson Moon Casket",
+        "Crimson Moon Casket",
+        "Steam Oven",
+        "Hellfire Gears"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Moonlight Lullaby"
+          ],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Moonlight Lullaby"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT RATE%",
+        "slot5": "PEN Ratio%",
+        "slot6": "Energy Regen",
+        "subs": "CRIT RATE > CRIT DMG > ATK % > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2200 - 2500+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "CRIT RATE: 74.6% - 100% (76% is needed to max her CRIT RATE with Signature W-Engine)",
+        "CRIT DMG: 70% - 100%+",
+        "Energy Regen: 2.88+ (3.12 needed to max her Impact, but this needs 2x 2-piece ER set effects)"
+      ]
+    },
+    {
+      "character": "Seed",
+      "engine": [
+        "Cordis Germina",
+        "Heartstring Nocturne",
+        "Myriad Eclipse",
+        "Zanshin Herb Case",
+        "Riot Suppressor Mark VI",
+        "The Brimstone",
+        "Marcato Desire"
+      ],
+      "disc": [
+        {
+          "4piece": "Dawn's Bloom",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Puffer Electro",
+            "Thunder Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Dawn's Bloom",
+            "Thunder Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Dawn's Bloom",
+            "Puffer Electro",
+            "Thunder Metal"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT DMG = CRIT Rate > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2700 - 3000+",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT DMG: 110 - 140%+",
+        "CRIT RATE: 75% - 90%+"
+      ]
+    },
+    {
+      "character": "Seth Lowell",
+      "engine": [
+        "Peacekeeper - Specialized",
+        "Spring Embrace",
+        "Bunny Band",
+        "Original Transmorpher"
+      ],
+      "disc": [
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Freedom Blues"
+          ]
+        },
+        {
+          "4piece": "Swing Jazz",
+          "recommend-2piece": [
+            "Hormone Punk"
+          ],
+          "other-2piece": [
+            "Shockstar Disco"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Shockstar Disco"
+          ]
+        },
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Shockstar Disco"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen = Anomaly Mastery",
+        "subs": "ATK% > Anomaly Proficiency > ATK > PEN"
+      },
+      "target": [
+        "ATK: 2600 - 3200+ (Shield Caps at 3750 Initial ATK but this is hard to achieve)",
+        "HP: 11000+",
+        "DEF: 900+",
+        "Anomaly Proficiency: 200 - 300+ (Optional)"
+      ]
+    },
+    {
+      "character": "Severian",
+      "engine": [],
+      "disc": [],
+      "disc-stat": {},
+      "target": []
+    },
+    {
+      "character": "Sigrid de L'Azur",
+      "engine": [
+        "Knight's Extolment",
+        "Knight's Extolment",
+        "The Brimstone",
+        "Severed Innocence",
+        "The Brimstone",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Hormone Punk",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": []
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Polar Metal"
+          ]
+        },
+        {
+          "4piece": "Dawn's Bloom",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE (until 33.8% in statscreen) > CRIT DMG = ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 3000 - 3400+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "CRIT RATE: 33.8% (any more and she’ll overcap due to the 66% from her Core Passive!)",
+        "CRIT DMG: 150% - 210%+ (W-Engine mainstat and D4 picks can give it a large range)"
+      ]
+    },
+    {
+      "character": "Soldier 11",
+      "engine": [
+        "Heartstring Nocturne",
+        "Cordis Germina",
+        "Myriad Eclipse",
+        "Severed Innocence",
+        "The Brimstone",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Branch & Blade Song",
+            "Inferno Metal",
+            "Dawn's Bloom"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Puffer Electro"
+          ],
+          "other-2piece": [
+            "Inferno Metal",
+            "Branch & Blade Song",
+            "Astral Voice",
+            "Dawn's Bloom"
+          ]
+        },
+        {
+          "4piece": "Dawn's Bloom",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Branch & Blade Song",
+            "Inferno Metal",
+            "Puffer Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "PEN Ratio%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG > ATK% > Anomaly Proficiency > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2800 - 3000+",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 80%+",
+        "CRIT DMG: 140%+"
+      ]
+    },
+    {
+      "character": "Soukaku",
+      "engine": [
+        "Bashful Demon",
+        "Weeping Cradle",
+        "Kaboom the Cannon",
+        "Slice of Time",
+        "[Reverb] Mark II",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Chaos Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen = ATK%",
+        "subs": "ATK% (top priority until ability cap) = CRIT RATE = CRIT DMG > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2777 (Lvl 4 Core Passive) - 2500 (Lvl 6 Core Passive)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "CRIT RATE: 50% - 60%+ (Optional)",
+        "CRIT DMG: 100% - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Sunbringer",
+      "engine": [],
+      "disc": [],
+      "disc-stat": {},
+      "target": []
+    },
+    {
+      "character": "Sunna",
+      "engine": [
+        "Thoughtbop",
+        "Weeping Cradle",
+        "Kaboom the Cannon",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Swing Jazz"
+          ],
+          "other-2piece": [
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Energy Regen",
+        "subs": "ATK% > ATK (until 3500) > Anomaly Proficiency > Flat PEN"
+      },
+      "target": [
+        "ATK: 3500+"
+      ]
+    },
+    {
+      "character": "The Storyteller",
+      "engine": [],
+      "disc": [],
+      "disc-stat": {},
+      "target": []
+    },
+    {
+      "character": "Trigger",
+      "engine": [
+        "Spectral Gaze",
+        "Blazing Laurel",
+        "Ice-Jade Teapot",
+        "The Restrained",
+        "Precious Fossilized Core",
+        "Steam Oven",
+        "Hellfire Gears"
+      ],
+      "disc": [
+        {
+          "4piece": "King of the Summit",
+          "recommend-2piece": [
+            "Shockstar Disco"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Proto Punk",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Shockstar Disco",
+            "Swing Jazz"
+          ]
+        },
+        {
+          "4piece": "Shockstar Disco",
+          "recommend-2piece": [
+            "King of the Summit"
+          ],
+          "other-2piece": [
+            "Swing Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate%",
+        "slot5": "Electric DMG%",
+        "slot6": "Impact",
+        "subs": "CRIT RATE >= CRIT DMG > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 1700 - 2200+ (Optional)",
+        "HP: 10000+",
+        "DEF: 750+",
+        "IMPACT: 162 - 186 + (Most important stat)",
+        "CRIT RATE: 60 - 90%",
+        "Stacking CRIT RATE grants her substantial DAZE% increase to all her Aftershock abilities, making it by far her highest priority stat after IMPACT% and DAZE% on gear.",
+        "Get as much CRIT RATE as you can until her additional ability caps out at 90%, then prioritize other stats (only doable with her signature).",
+        "CRIT DMG: 100 - 120%+ (Optional)"
+      ]
+    },
+    {
+      "character": "Velina Airgid",
+      "engine": [
+        "Joyau Dore",
+        "Joyau Dore",
+        "Flamemaker Shaker",
+        "Kaboom the Cannon",
+        "Weeping Gemini",
+        "Boisterous Echoes"
+      ],
+      "disc": [
+        {
+          "4piece": "Wuthering Salon",
+          "recommend-2piece": [
+            "Moonlight Lullaby"
+          ],
+          "other-2piece": []
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Energy Regen",
+        "subs": "Anomaly Proficiency > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 2400 - 2600+",
+        "HP: 9500+",
+        "DEF: 750+",
+        "Anomaly Proficiency: 330 - 420+",
+        "Energy Regen: 2.88"
+      ]
+    },
+    {
+      "character": "Vivian Banshee",
+      "engine": [
+        "Flight of Fancy",
+        "Weeping Gemini"
+      ],
+      "disc": [
+        {
+          "4piece": "Phaethon's Melody",
+          "recommend-2piece": [
+            "Chaos Jazz"
+          ],
+          "other-2piece": [
+            "Chaotic Metal",
+            "Astral Voice",
+            "Puffer Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "Ether DMG%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency >>> ATK% > ATK = PEN"
+      },
+      "target": [
+        "ATK: 2000 - 2400+",
+        "HP: 10000",
+        "DEF: 800",
+        "Anomaly Mastery: 198+",
+        "Anomaly Proficiency: 380 - 450+ (Before Combat)"
+      ]
+    },
+    {
+      "character": "Tsukishiro Yanagi",
+      "engine": [
+        "Timeweaver",
+        "Timeweaver",
+        "Weeping Gemini",
+        "Electro-Lip Gloss"
+      ],
+      "disc": [
+        {
+          "4piece": "Chaos Jazz",
+          "recommend-2piece": [
+            "Freedom Blues"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Thunder Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Feathered Fate",
+          "recommend-2piece": [
+            "Freedom Blues"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Thunder Metal",
+            "Astral Voice"
+          ]
+        },
+        {
+          "4piece": "Freedom Blues",
+          "recommend-2piece": [
+            "Chaos Jazz"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Thunder Metal",
+            "Astral Voice"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "Anomaly Proficiency",
+        "slot5": "PEN Ratio%",
+        "slot6": "Anomaly Mastery",
+        "subs": "Anomaly Proficiency > ATK% > PEN = ATK"
+      },
+      "target": [
+        "ATK: 2600 - 3400+ (Depending on W-Engine choice)",
+        "HP: 10000+",
+        "DEF: 800+",
+        "Anomaly Mastery: 148 - 190+",
+        "Anomaly Proficiency: 350 - 450+"
+      ]
+    },
+    {
+      "character": "Ye Shunguang",
+      "engine": [
+        "Cloudcleave Radiance",
+        "The Brimstone",
+        "Severed Innocence",
+        "The Brimstone",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "White Water Ballad",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Puffer Electro",
+            "Astral Voice",
+            "Fanged Metal",
+            "Woodpecker Electro"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "PEN Ratio% = ATK%",
+        "slot6": "ATK%",
+        "subs": "CRIT DMG = CRIT Rate > ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 3000+",
+        "HP: 10000+",
+        "DEF: 600+",
+        "CRIT DMG: 180 - 200%+",
+        "CRIT RATE: max. 50% (in stat screen)"
+      ]
+    },
+    {
+      "character": "Yidhari Murphy",
+      "engine": [
+        "Kraken's Cradle",
+        "Grill O'Wisp",
+        "Cauldron of Clarity",
+        "Qingming Birdcage",
+        "Radiowave Journey",
+        "Puzzle Sphere"
+      ],
+      "disc": [
+        {
+          "4piece": "Yunkui Tales",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT Rate% = CRIT DMG%",
+        "slot5": "Ice DMG%",
+        "slot6": "HP%",
+        "subs": "CRIT Rate = CRIT DMG > HP% > ATK% = Flat HP"
+      },
+      "target": [
+        "SHEER FORCE: 2,400 - 2,600",
+        "HP: 18,000 - 20,000+",
+        "CRIT RATE: 58.6% - 65.8% (90.6% - 97.2% in-combat)",
+        "CRIT DMG: 120% - 150%"
+      ]
+    },
+    {
+      "character": "Yixuan",
+      "engine": [
+        "Qingming Birdcage",
+        "Cauldron of Clarity",
+        "Radiowave Journey",
+        "Puzzle Sphere",
+        "Kraken's Cradle",
+        "Grill O'Wisp"
+      ],
+      "disc": [
+        {
+          "4piece": "Yunkui Tales",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG% = CRIT Rate%",
+        "slot5": "Ether DMG%",
+        "slot6": "HP%",
+        "subs": "CRIT Rate = CRIT DMG > HP% > ATK% > Flat HP"
+      },
+      "target": [
+        "SHEER FORCE: 2100 - 2400",
+        "ATK: 1800 - 2000+",
+        "HP: 16,000 - 18,000+",
+        "DEF: 600+",
+        "CRIT RATE: 80 - 90% (Including Disc Drive Bonus)",
+        "CRIT DMG: 140 - 160%"
+      ]
+    },
+    {
+      "character": "Ukinami Yuzuha",
+      "engine": [
+        "Weeping Cradle",
+        "Thoughtbop",
+        "Metanukimorphosis",
+        "Weeping Cradle",
+        "Kaboom the Cannon",
+        "Unfettered Game Ball"
+      ],
+      "disc": [
+        {
+          "4piece": "Moonlight Lullaby",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Chaos Jazz"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Phaethon's Melody"
+          ],
+          "other-2piece": [
+            "Hormone Punk",
+            "Chaos Jazz"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "ATK%",
+        "slot5": "ATK%",
+        "slot6": "Anomaly Mastery = ATK%",
+        "subs": "ATK% > ATK (until 3000) > Anomaly Proficiency > PEN"
+      },
+      "target": [
+        "ATK: 3000+",
+        "HP: 11000+",
+        "DEF: 800+",
+        "Anomaly Proficiency: 200+",
+        "Anomaly Mastery: 171"
+      ]
+    },
+    {
+      "character": "Zhao",
+      "engine": [
+        "Half-Sugar Bunny",
+        "Tusks of Fury",
+        "Original Transmorpher"
+      ],
+      "disc": [
+        {
+          "4piece": "Bunny in Wonderland",
+          "recommend-2piece": [
+            "Yunkui Tales"
+          ],
+          "other-2piece": [
+            "Moonlight Lullaby"
+          ]
+        },
+        {
+          "4piece": "Astral Voice",
+          "recommend-2piece": [
+            "Moonlight Lullaby"
+          ],
+          "other-2piece": [
+            "Yunkui Tales"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "HP%",
+        "slot5": "HP%",
+        "slot6": "Energy Regen",
+        "subs": "HP% (Until 27000 Initial HP) > Flat HP (Until 27000 Initial HP) > Crit Rate = Crit DMG"
+      },
+      "target": [
+        "ATK: 1900+",
+        "HP: 25000+",
+        "DEF: 800+",
+        "Crit Rate: 30%+",
+        "Crit DMG: 50%+"
+      ]
+    },
+    {
+      "character": "Zhu Yuan",
+      "engine": [
+        "Cordis Germina",
+        "The Brimstone",
+        "Riot Suppressor Mark VI",
+        "Marcato Desire",
+        "Starlight Engine"
+      ],
+      "disc": [
+        {
+          "4piece": "Chaotic Metal",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Astral Voice",
+            "Branch & Blade Song",
+            "Dawn's Bloom"
+          ]
+        },
+        {
+          "4piece": "Puffer Electro",
+          "recommend-2piece": [
+            "Woodpecker Electro"
+          ],
+          "other-2piece": [
+            "Branch & Blade Song",
+            "Astral Voice",
+            "Chaotic Metal"
+          ]
+        },
+        {
+          "4piece": "Woodpecker Electro",
+          "recommend-2piece": [
+            "Branch & Blade Song"
+          ],
+          "other-2piece": [
+            "Chaotic Metal",
+            "Astral Voice",
+            "Dawn's Bloom"
+          ]
+        }
+      ],
+      "disc-stat": {
+        "slot4": "CRIT DMG% = CRIT Rate%",
+        "slot5": "ATK%",
+        "slot6": "ATK%",
+        "subs": "CRIT RATE = CRIT DMG = ATK% > PEN > ATK"
+      },
+      "target": [
+        "ATK: 3000+",
+        "HP: 9500+",
+        "DEF: 800+",
+        "CRIT RATE: 60% - 70% (90% - 100% with Add Ability; Max 55% with Nicole M6)",
+        "CRIT DMG: 160% - 180%+ (Without Chaotic Metal Buff)"
+      ]
+    }
+  ]
+}

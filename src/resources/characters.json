@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "last_updated": "2026-Oct-24",
+    "Contributors": [
+      "KiwiKin",
+      "zenless-zone-zero.fandom.com/wiki/"
+    ],
+    "Note": "Completed"
+  },
+  "characters": [
+    {
+      "character": "Belle",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ee/Agent_Belle_Icon.png/revision/latest?cb=20251124143351",
+      "faction": "Phaethon",
+      "attribute": "",
+      "specialty": "",
+      "rarity": "C"
+    },
+    {
+      "character": "Pyrois",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4b/Agent_Pyrois_Icon.png/revision/latest?cb=20260617073025",
+      "faction": "Phaethon",
+      "attribute": "Ether",
+      "specialty": "Attack",
+      "rarity": "I"
+    },
+    {
+      "character": "Wise",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/31/Agent_Wise_Icon.png/revision/latest?cb=20251124143158",
+      "faction": "Phaethon",
+      "attribute": "",
+      "specialty": "",
+      "rarity": "C"
+    },
+    {
+      "character": "Anby Demara",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b1/Agent_Anby_Demara_Icon.png/revision/latest?cb=20241019172455",
+      "faction": "Cunning Hares",
+      "attribute": "Electric",
+      "specialty": "Stun",
+      "rarity": "A"
+    },
+    {
+      "character": "Billy Kid",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/99/Agent_Billy_Kid_Icon.png/revision/latest?cb=20251124030357",
+      "faction": "Cunning Hares",
+      "attribute": "Physical",
+      "specialty": "Attack",
+      "rarity": "A"
+    },
+    {
+      "character": "Nekomiya Mana",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d0/Agent_Nekomiya_Mana_Icon.png/revision/latest?cb=20251125010959",
+      "faction": "Cunning Hares",
+      "attribute": "Physical",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Nicole Demara",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/21/Agent_Nicole_Demara_Icon.png/revision/latest?cb=20241226184348",
+      "faction": "Cunning Hares",
+      "attribute": "Ether",
+      "specialty": "Support",
+      "rarity": "A"
+    },
+    {
+      "character": "Starlight - Billy Kid",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/59/Agent_Starlight_-_Billy_Kid_Icon.png/revision/latest?cb=20260506071044",
+      "faction": "Cunning Hares",
+      "attribute": "Physical",
+      "specialty": "Rupture",
+      "rarity": "S"
+    },
+    {
+      "character": "Anton Ivanov",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/13/Agent_Anton_Ivanov_Icon.png/revision/latest?cb=20241226184655",
+      "faction": "Belobog Heavy Industries",
+      "attribute": "Electric",
+      "specialty": "Attack",
+      "rarity": "A"
+    },
+    {
+      "character": "Ben Bigger",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/ba/Agent_Ben_Bigger_Icon.png/revision/latest?cb=20241226185231",
+      "faction": "Belobog Heavy Industries",
+      "attribute": "Fire",
+      "specialty": "Defense",
+      "rarity": "A"
+    },
+    {
+      "character": "Grace Howard",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e6/Agent_Grace_Howard_Icon.png/revision/latest?cb=20251125002307",
+      "faction": "Belobog Heavy Industries",
+      "attribute": "Electric",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Koleda Belobog",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a8/Agent_Koleda_Belobog_Icon.png/revision/latest?cb=20251124025444",
+      "faction": "Belobog Heavy Industries",
+      "attribute": "Fire",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Alexandrina Sebastiane",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a8/Agent_Alexandrina_Sebastiane_Icon.png/revision/latest?cb=20251124022537",
+      "faction": "Victoria Housekeeping Co.",
+      "attribute": "Electric",
+      "specialty": "Support",
+      "rarity": "S"
+    },
+    {
+      "character": "Corin Wickes",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e4/Agent_Corin_Wickes_Icon.png/revision/latest?cb=20241226184132",
+      "faction": "Victoria Housekeeping Co.",
+      "attribute": "Physical",
+      "specialty": "Attack",
+      "rarity": "A"
+    },
+    {
+      "character": "Ellen Joe",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ed/Agent_Ellen_Joe_Icon.png/revision/latest?cb=20251215071723",
+      "faction": "Victoria Housekeeping Co.",
+      "attribute": "Ice",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Von Lycaon",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2f/Agent_Von_Lycaon_Icon.png/revision/latest?cb=20251124022718",
+      "faction": "Victoria Housekeeping Co.",
+      "attribute": "Ice",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Soldier 11",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/62/Agent_Soldier_11_Icon.png/revision/latest?cb=20251124144310",
+      "faction": "Obol Squad",
+      "attribute": "Fire",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Trigger",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/df/Agent_Trigger_Icon.png/revision/latest?cb=20250319075834",
+      "faction": "Obol Squad",
+      "attribute": "Electric",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Seed",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fb/Agent_Seed_Icon.png/revision/latest?cb=20250904110709",
+      "faction": "Obol Squad",
+      "attribute": "Electric",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Orphie Magnusson & Magus",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/63/Agent_Orphie_Magnusson_%26_Magus_Icon.png/revision/latest?cb=20250908105854",
+      "faction": "Obol Squad",
+      "attribute": "Fire",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Zhu Yuan",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fb/Agent_Zhu_Yuan_Icon.png/revision/latest?cb=20251124072127",
+      "faction": "Criminal Investigation Special Response Team",
+      "attribute": "Ether",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Qingyi",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/39/Agent_Qingyi_Icon.png/revision/latest?cb=20251124072414",
+      "faction": "Criminal Investigation Special Response Team",
+      "attribute": "Electric",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Jane Doe",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e7/Agent_Jane_Doe_Icon.png/revision/latest?cb=20241226185547",
+      "faction": "Criminal Investigation Special Response Team",
+      "attribute": "Physical",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Seth Lowell",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6d/Agent_Seth_Lowell_Icon.png/revision/latest?cb=20260703153252",
+      "faction": "Criminal Investigation Special Response Team",
+      "attribute": "Electric",
+      "specialty": "Defense",
+      "rarity": "A"
+    },
+    {
+      "character": "Luciana de Montefio",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b8/Agent_Luciana_de_Montefio_Icon.png/revision/latest?cb=20241226184926",
+      "faction": "Sons of Calydon",
+      "attribute": "Fire",
+      "specialty": "Support",
+      "rarity": "A"
+    },
+    {
+      "character": "Piper Wheel",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ca/Agent_Piper_Wheel_Icon.png/revision/latest?cb=20251124025701",
+      "faction": "Sons of Calydon",
+      "attribute": "Physical",
+      "specialty": "Anomaly",
+      "rarity": "A"
+    },
+    {
+      "character": "Caesar King",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/af/Agent_Caesar_King_Icon.png/revision/latest?cb=20241019195551",
+      "faction": "Sons of Calydon",
+      "attribute": "Physical",
+      "specialty": "Defense",
+      "rarity": "S"
+    },
+    {
+      "character": "Burnice White",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f9/Agent_Burnice_White_Icon.png/revision/latest?cb=20241019195418",
+      "faction": "Sons of Calydon",
+      "attribute": "Fire",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Lighter",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b5/Agent_Lighter_Icon.png/revision/latest?cb=20251124023014",
+      "faction": "Sons of Calydon",
+      "attribute": "Fire",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Pulchra Fellini",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/8c/Agent_Pulchra_Fellini_Icon.png/revision/latest?cb=20260703154720",
+      "faction": "Sons of Calydon",
+      "attribute": "Physical",
+      "specialty": "Stun",
+      "rarity": "A"
+    },
+    {
+      "character": "Soukaku",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/89/Agent_Soukaku_Icon.png/revision/latest?cb=20241226185142",
+      "faction": "Hollow Special Operations Section 6",
+      "attribute": "Ice",
+      "specialty": "Support",
+      "rarity": "A"
+    },
+    {
+      "character": "Tsukishiro Yanagi",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/8c/Agent_Tsukishiro_Yanagi_Icon.png/revision/latest?cb=20251124022321",
+      "faction": "Hollow Special Operations Section 6",
+      "attribute": "Electric",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Asaba Harumasa",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fe/Agent_Asaba_Harumasa_Icon.png/revision/latest?cb=20251125011458",
+      "faction": "Hollow Special Operations Section 6",
+      "attribute": "Electric",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Hoshimi Miyabi",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Hoshimi_Miyabi_Icon.png/revision/latest?cb=20251124024758",
+      "faction": "Hollow Special Operations Section 6",
+      "attribute": "Frost",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Astra Yao",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b8/Agent_Astra_Yao_Icon.png/revision/latest?cb=20251125002054",
+      "faction": "Stars of Lyra",
+      "attribute": "Ether",
+      "specialty": "Support",
+      "rarity": "S"
+    },
+    {
+      "character": "Evelyn Chevalier",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/17/Agent_Evelyn_Chevalier_Icon.png/revision/latest?cb=20250123234408",
+      "faction": "Stars of Lyra",
+      "attribute": "Fire",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Soldier 0 - Anby",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/95/Agent_Soldier_0_-_Anby_Icon.png/revision/latest?cb=20251124023214",
+      "faction": "Defense Force - Silver Squad",
+      "attribute": "Electric",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Vivian Banshee",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d5/Agent_Vivian_Banshee_Icon.png/revision/latest?cb=20251124030057",
+      "faction": "Mockingbird",
+      "attribute": "Ether",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Hugo Vlad",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/99/Agent_Hugo_Vlad_Icon.png/revision/latest?cb=20260626021709",
+      "faction": "Mockingbird",
+      "attribute": "Ice",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Pan Yinhu",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/ab/Agent_Pan_Yinhu_Icon.png/revision/latest?cb=20251124021917",
+      "faction": "Yunkui Summit",
+      "attribute": "Physical",
+      "specialty": "Defense",
+      "rarity": "A"
+    },
+    {
+      "character": "Yixuan",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f7/Agent_Yixuan_Icon.png/revision/latest?cb=20250609032616",
+      "faction": "Yunkui Summit",
+      "attribute": "Auric Ink",
+      "specialty": "Rupture",
+      "rarity": "S"
+    },
+    {
+      "character": "Ju Fufu",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/4/4a/Agent_Ju_Fufu_Icon.png/revision/latest?cb=20260626022036",
+      "faction": "Yunkui Summit",
+      "attribute": "Fire",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Ye Shunguang",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/94/Agent_Ye_Shunguang_Icon.png/revision/latest?cb=20260626020025",
+      "faction": "Yunkui Summit",
+      "attribute": "Honed Edge",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Ukinami Yuzuha",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fc/Agent_Ukinami_Yuzuha_Icon.png/revision/latest?cb=20250716042038",
+      "faction": "Spook Shack",
+      "attribute": "Physical",
+      "specialty": "Support",
+      "rarity": "S"
+    },
+    {
+      "character": "Alice Thymefield",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7e/Agent_Alice_Thymefield_Icon.png/revision/latest?cb=20251124143758",
+      "faction": "Spook Shack",
+      "attribute": "Physical",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Komano Manato",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7c/Agent_Komano_Manato_Icon.png/revision/latest?cb=20251016000234",
+      "faction": "Spook Shack",
+      "attribute": "Fire",
+      "specialty": "Rupture",
+      "rarity": "A"
+    },
+    {
+      "character": "Lucia Elowen",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/ff/Agent_Lucia_Elowen_Icon.png/revision/latest?cb=20251015235816",
+      "faction": "Spook Shack",
+      "attribute": "Ether",
+      "specialty": "Support",
+      "rarity": "S"
+    },
+    {
+      "character": "Yidhari Murphy",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/6f/Agent_Yidhari_Murphy_Icon.png/revision/latest?cb=20251016000530",
+      "faction": "Spook Shack",
+      "attribute": "Ice",
+      "specialty": "Rupture",
+      "rarity": "S"
+    },
+    {
+      "character": "Dialyn",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/25/Agent_Dialyn_Icon.png/revision/latest?cb=20260626021103",
+      "faction": "Krampus Compliance Authority",
+      "attribute": "Physical",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Banyue",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/70/Agent_Banyue_Icon.png/revision/latest?cb=20251126110600",
+      "faction": "Krampus Compliance Authority",
+      "attribute": "Fire",
+      "specialty": "Rupture",
+      "rarity": "S"
+    },
+    {
+      "character": "Zhao",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d4/Agent_Zhao_Icon.png/revision/latest?cb=20251230034041",
+      "faction": "Krampus Compliance Authority",
+      "attribute": "Ice",
+      "specialty": "Defense",
+      "rarity": "S"
+    },
+    {
+      "character": "Promeia",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Agent_Promeia_Icon.png/revision/latest?cb=20260506070854",
+      "faction": "Krampus Compliance Authority",
+      "attribute": "Ice",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Phoenix Reffaella",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c9/Agent_Phoenix_Reffaella_Icon.png/revision/latest?cb=20261021040927",
+      "faction": "Krampus Compliance Authority",
+      "attribute": "Fire",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Sunna",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0f/Agent_Sunna_Icon.png/revision/latest?cb=20260626023528",
+      "faction": "Angels of Delusion",
+      "attribute": "Physical",
+      "specialty": "Support",
+      "rarity": "S"
+    },
+    {
+      "character": "Aria",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2d/Agent_Aria_Icon.png/revision/latest?cb=20260626020232",
+      "faction": "Angels of Delusion",
+      "attribute": "Ether",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Nangong Yu",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a3/Agent_Nangong_Yu_Icon.png/revision/latest?cb=20260626020638",
+      "faction": "Angels of Delusion",
+      "attribute": "Ether",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Cissia",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/be/Agent_Cissia_Icon.png/revision/latest?cb=20260306144340",
+      "faction": "Metropolitan Order Division",
+      "attribute": "Electric",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Velina Airgid",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fb/Agent_Velina_Airgid_Icon.png/revision/latest?cb=20260617073206",
+      "faction": "External Strategy Department",
+      "attribute": "Wind",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Norma Hollowell",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/18/Agent_Norma_Hollowell_Icon.png/revision/latest?cb=20260618005042",
+      "faction": "External Strategy Department",
+      "attribute": "Fire",
+      "specialty": "Stun",
+      "rarity": "S"
+    },
+    {
+      "character": "Remielle Dan",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Agent_Remielle_Dan_Icon.png/revision/latest?cb=20260730003256",
+      "faction": "Covenant of Dayat",
+      "attribute": "Lumiflux",
+      "specialty": "Anomaly",
+      "rarity": "S"
+    },
+    {
+      "character": "Sigrid de L'Azur",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Agent_Sigrid_de_L%27Azur_Icon.png/revision/latest?cb=20260730003820",
+      "faction": "Airspace Patrol Department",
+      "attribute": "Ice",
+      "specialty": "Attack",
+      "rarity": "S"
+    },
+    {
+      "character": "Claret Flint",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b3/Agent_Claret_Flint_Icon.png/revision/latest?cb=20260909034358",
+      "faction": "Flint Workshop",
+      "attribute": "Electric",
+      "specialty": "Armorer",
+      "rarity": "S"
+    },
+    {
+      "character": "Roxy Ifrita Pryce",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/db/Agent_Roxy_Ifrita_Pryce_Icon.png/revision/latest?cb=20260911000009",
+      "faction": "Flint Workshop",
+      "attribute": "Wind",
+      "specialty": "Stun",
+      "rarity": "S"
+    }
+  ]
+}

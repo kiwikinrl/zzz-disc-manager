@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "last_updated": "2026-Oct-24",
+    "Contributors": [
+      "KiwiKin",
+      "zenless-zone-zero.fandom.com/wiki/"
+    ],
+    "Note": "Completed"
+  },
+  "faction": [
+    {
+      "name": "Phaethon",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fd/Faction_Phaethon_Icon.png/revision/latest?cb=20260428045200"
+    },
+    {
+      "name": "Cunning Hares",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d6/Faction_Gentle_House_Icon.png/revision/latest?cb=20240915104622"
+    },
+    {
+      "name": "Belobog Heavy Industries",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/66/Faction_Belobog_Heavy_Industries_Icon.png/revision/latest?cb=20240915104643"
+    },
+    {
+      "name": "Victoria Housekeeping Co.",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a4/Faction_Victoria_Housekeeping_Co._Icon.png/revision/latest?cb=20240915104752"
+    },
+    {
+      "name": "Obol Squad",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/68/Faction_Obol_Squad_Icon.png/revision/latest?cb=20240704095738"
+    },
+    {
+      "name": "Criminal Investigation Special Response Team",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/23/Faction_Criminal_Investigation_Special_Response_Team_Icon.png/revision/latest?cb=20240318082409"
+    },
+    {
+      "name": "Sons of Calydon",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/36/Faction_Sons_of_Calydon_Icon.png/revision/latest?cb=20240628052957"
+    },
+    {
+      "name": "Hollow Special Operations Section 6",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143"
+    },
+    {
+      "name": "Stars of Lyra",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d8/Faction_Stars_of_Lyra_Icon.png/revision/latest?cb=20250215155215"
+    },
+    {
+      "name": "Defense Force - Silver Squad",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b5/Faction_Defense_Force_-_Silver_Squad_Icon.png/revision/latest?cb=20250306044854"
+    },
+    {
+      "name": "Mockingbird",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5f/Faction_Mockingbird_Icon.png/revision/latest?cb=20250306043622"
+    },
+    {
+      "name": "Yunkui Summit",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/59/Faction_Yunkui_Summit_Icon.png/revision/latest?cb=20250426045238"
+    },
+    {
+      "name": "Spook Shack",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/18/Faction_Spook_Shack_Icon.png/revision/latest?cb=20250608103142"
+    },
+    {
+      "name": "Krampus Compliance Authority",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b5/Faction_Krampus_Compliance_Authority_Icon.png/revision/latest?cb=20251126110143"
+    },
+    {
+      "name": "Angels of Delusion",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/81/Faction_Angels_of_Delusion_Icon.png/revision/latest?cb=20260214025914"
+    },
+    {
+      "name": "Metropolitan Order Division",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/82/Faction_Metropolitan_Order_Division_Icon.png/revision/latest?cb=20260324213105"
+    },
+    {
+      "name": "External Strategy Department",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/88/Faction_External_Strategy_Department_Icon.png/revision/latest?cb=20260429044746"
+    },
+    {
+      "name": "Covenant of Dayat",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/55/Faction_Covenant_of_Dayat_Icon.png/revision/latest?cb=20260729053423"
+    },
+    {
+      "name": "Airspace Patrol Department",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Faction_Airspace_Patrol_Department_Icon.png/revision/latest?cb=20260729070634"
+    },
+    {
+      "name": "Flint Workshop",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e6/Faction_Flint_Workshop_Icon.png/revision/latest?cb=20261023041149"
+    }
+  ],
+  "attribute": [
+    {
+      "name": "Ether",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d2/Icon_Ether.png/revision/latest?cb=20251231182053"
+    },
+    {
+      "name": "Electric",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/1c/Icon_Electric.png/revision/latest?cb=20251231182037"
+    },
+    {
+      "name": "Physical",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/ce/Icon_Physical.png/revision/latest?cb=20251231181902"
+    },
+    {
+      "name": "Fire",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/0a/Icon_Fire.png/revision/latest?cb=20251231181922"
+    },
+    {
+      "name": "Ice",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/52/Icon_Ice.png/revision/latest?cb=20251231181955"
+    },
+    {
+      "name": "Frost",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/88/Icon_Frost.png/revision/latest?cb=20251231201722"
+    },
+    {
+      "name": "Auric Ink",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/31/Icon_Auric_Ink.png/revision/latest?cb=20251231183136"
+    },
+    {
+      "name": "Honed Edge",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3e/Icon_Honed_Edge.png/revision/latest?cb=20251221033930"
+    },
+    {
+      "name": "Wind",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a7/Icon_Wind.png/revision/latest?cb=20260619062841"
+    },
+    {
+      "name": "Lumiflux",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9d/Icon_Lumiflux.png/revision/latest?cb=20260729032522"
+    }
+  ],
+  "specialty": [
+    {
+      "name": "Attack",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/30/Icon_Attack.png/revision/latest?cb=20240704113633"
+    },
+    {
+      "name": "Stun",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Icon_Stun.png/revision/latest?cb=20240704113653"
+    },
+    {
+      "name": "Support",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2f/Icon_Support.png/revision/latest?cb=20240704113754"
+    },
+    {
+      "name": "Rupture",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ef/Icon_Rupture.png/revision/latest?cb=20250606203454"
+    },
+    {
+      "name": "Defense",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/fb/Icon_Defense.png/revision/latest?cb=20240704113713"
+    },
+    {
+      "name": "Anomaly",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d2/Icon_Anomaly.png/revision/latest?cb=20240704113735"
+    },
+    {
+      "name": "Armorer",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/ba/Icon_Armorer.png/revision/latest?cb=20260909073142"
+    }
+  ]
+}

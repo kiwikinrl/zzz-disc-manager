@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "last_updated": "2026-Oct-24",
+    "Contributors": [
+      "KiwiKin",
+      "zenless-zone-zero.fandom.com/wiki/"
+    ],
+    "Note": "Completed"
+  },
+  "discs": [
+    {
+      "default": "/image.png"
+    },
+    {
+      "set": "Astral Voice",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cf/Drive_Disc_Astral_Voice_Icon.png/revision/latest?cb=20241220071227",
+      "2piece": "ATK +10%",
+      "4piece": "Whenever any squad member enters the field using a Quick Assist, all squad members gain 1 stack of Astral, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of Astral increases the DMG dealt by the character entering the field using a Quick Assist by 8%. Only one instance of this effect can exist in the same squad."
+    },
+    {
+      "set": "Branch & Blade Song",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b7/Drive_Disc_Branch_%26_Blade_Song_Icon.png/revision/latest?cb=20241220071219",
+      "2piece": "CRIT DMG +16%",
+      "4piece": "When Anomaly Mastery exceeds or equals 115 points, the equipper's CRIT DMG increases by 30%. When any squad member applies Freeze or triggers the Shatter effect on an enemy, the equipper's CRIT Rate increases by 12%, lasting 15s."
+    },
+    {
+      "set": "Bunny in Wonderland",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b6/Drive_Disc_Bunny_in_Wonderland_Icon.png/revision/latest?cb=20260324214635",
+      "2piece": "HP +10%",
+      "4piece": "When the equipper is a Defense character: When the equipper launches an EX Special Attack or any squad member triggers a Defensive Assist or Evasive Assist, all squad members' DMG increases by 6%, stacking up to 3 times, lasting 25s. Stacks decay one at a time, and duration refreshes when gained or decayed. Passive effects of the same name do not stack."
+    },
+    {
+      "set": "Chaos Jazz",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2e/Drive_Disc_Chaos_Jazz_Icon.png/revision/latest?cb=20241223020130",
+      "2piece": "Anomaly Proficiency +30",
+      "4piece": "Fire DMG and Electric DMG increases by 15%. While off-field, EX Special Attack and Assist Attack DMG increases by 20%. When switching on-field, this buff continues for 5s, and this continuation effect can trigger once every 7.5s."
+    },
+    {
+      "set": "Chaotic Metal",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a5/Drive_Disc_Chaotic_Metal_Icon.png/revision/latest?cb=20241222103950",
+      "2piece": "Increases Ether DMG by 10%.",
+      "4piece": "The equipper's CRIT DMG increases by 20%. When any character in the squad triggers Corruption's additional DMG, this effect further increases by 5.5% for 8s, stacking up to 6 times. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Dawn's Bloom",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/78/Drive_Disc_Dawn%27s_Bloom_Icon.png/revision/latest?cb=20250922162614",
+      "2piece": "Increases Basic Attack DMG by 15%.",
+      "4piece": "Increases Basic Attack DMG by 20%. When equipped by an Attack character, using an EX Special Attack or Ultimate will further increase Basic Attack DMG by 20% for 25s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Fanged Metal",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/16/Drive_Disc_Fanged_Metal_Icon.png/revision/latest?cb=20241222104934",
+      "2piece": "Increases Physical DMG by 10%.",
+      "4piece": "Whenever a squad member inflicts Assault on an enemy, the equipper deals 35% additional DMG to the target for 12s."
+    },
+    {
+      "set": "Feathered Fate",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/9/9d/Drive_Disc_Feathered_Fate_Icon.png/revision/latest?cb=20260731224923",
+      "2piece": "Anomaly Proficiency +30",
+      "4piece": "When the equipper enters the battlefield or is switched in as the active character, they gain the following buff: Anomaly Proficiency increases by 50. If the equipper is a Lumiflux character, Attribute Anomaly DMG increases by 15%, lasting 15s.This buff remains active while the equipper is off-field."
+    },
+    {
+      "set": "Freedom Blues",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/ea/Drive_Disc_Freedom_Blues_Icon.png/revision/latest?cb=20241222111636",
+      "2piece": "Increases Anomaly Proficiency by 30.",
+      "4piece": "When an EX Special Attack hits an enemy, reduce the target's Anomaly Buildup RES to the equipper's Attribute by 20% for 8s. This effect does not stack with others of the same attribute."
+    },
+    {
+      "set": "Hormone Punk",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/14/Drive_Disc_Hormone_Punk_Icon.png/revision/latest?cb=20241222223211",
+      "2piece": "Increases ATK by 10%.",
+      "4piece": "Upon entering combat or switching in, its user's ATK increases by 25% for 10s. This effect can trigger once every 20s."
+    },
+    {
+      "set": "Inferno Metal",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/62/Drive_Disc_Inferno_Metal_Icon.png/revision/latest?cb=20241222111407",
+      "2piece": "Increases Fire DMG by 10%.",
+      "4piece": "Upon hitting a Burning enemy, the equipper's CRIT Rate is increased by 28% for 8s."
+    },
+    {
+      "set": "King of the Summit",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/be/Drive_Disc_King_of_the_Summit_Icon.png/revision/latest?cb=20250607050621",
+      "2piece": "Increases Daze of attacks by 6%",
+      "4piece": "When the equipper is a Stun character and uses an EX Special Attack or Chain Attack, increases CRIT DMG of all squad members by 15%, and when the equipper's CRIT Rate is more than or equal to 50%, further increases CRIT DMG by 15%, lasting 15s. Repeated triggers reset the duration. Passive effects of the same name do not stack."
+    },
+    {
+      "set": "Moonlight Lullaby",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/ba/Drive_Disc_Moonlight_Lullaby_Icon.png/revision/latest?cb=20250922162639",
+      "2piece": "Increases Energy Regen by 20%",
+      "4piece": "When the equipper is a Support character and uses an EX Special Attack or Ultimate, the DMG dealt by all squad members increases by 18% for 25s. Repeated triggers reset the duration. Passive effects of the same name do not stack."
+    },
+    {
+      "set": "Notes From the Chained",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/bf/Drive_Disc_Notes_From_the_Chained_Icon.png/revision/latest?cb=20260325100529",
+      "2piece": "Ice DMG +10%",
+      "4piece": "When the equipper triggers Abloom, their Anomaly Proficiency increases by 48 for 30s; repeated triggers reset the duration. When the equipper triggers a Freeze effect, their All-Attribute Anomaly DMG and Disorder DMG increase by 16% for 30s; repeated triggers reset the duration."
+    },
+    {
+      "set": "Phaethon's Melody",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3a/Drive_Disc_Phaethon%27s_Melody_Icon.png/revision/latest?cb=20250312034103",
+      "2piece": "Anomaly Mastery +8%.",
+      "4piece": "When any squad member uses an EX Special Attack, the equipper's Anomaly Proficiency increases by 45 for 8s. If the character using the EX Special Attack is not the equipper, the equipper's Ether DMG is increased by 25%."
+    },
+    {
+      "set": "Polar Metal",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/e/e3/Drive_Disc_Polar_Metal_Icon.png/revision/latest?cb=20241222111236",
+      "2piece": "Increases Ice DMG by 10%.",
+      "4piece": "Increase the DMG of Basic Attack and Dash Attack by 20%. When any squad member inflicts Freeze or Shatter, this effect increases by an additional 20% for 12s."
+    },
+    {
+      "set": "Proto Punk",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a0/Drive_Disc_Proto_Punk_Icon.png/revision/latest?cb=20241222111127",
+      "2piece": "Increases Shield effect by 15%",
+      "4piece": "When any squad member triggers a Defensive Assist or Evasive Assist, all squad members deal 15% increased DMG, lasting 10s. Passive effects of the same name do not stack."
+    },
+    {
+      "set": "Puffer Electro",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/d/d6/Drive_Disc_Puffer_Electro_Icon.png/revision/latest?cb=20241223015904",
+      "2piece": "Increases PEN Ratio by 8%.",
+      "4piece": "Ultimate DMG increases by 20%. Launching an Ultimate increases the equipper's ATK by 15% for 12s."
+    },
+    {
+      "set": "Shadow Harmony",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/5e/Drive_Disc_Shadow_Harmony_Icon.png/revision/latest?cb=20250312034109",
+      "2piece": "The DMG of Aftershocks and Dash Attacks is increased by 15%.",
+      "4piece": "Upon hitting an enemy with an Aftershock or Dash Attack, if the DMG dealt aligns with the equipper's attribute, the equipper gains 1 stack of a buff effect, at most once per use of a skill. For each stack, the equipper's ATK increases by 4%, and CRIT Rate increases by 4%. The effect can stack up to 3 times and lasts for 15s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Shining Aria",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/01/Drive_Disc_Shining_Aria_Icon.png/revision/latest?cb=20251231144111",
+      "2piece": "Increases Ether DMG by 10%.",
+      "4piece": "When the equipper's Basic Attack hits an enemy, their Anomaly Proficiency Increases by 36, lasting 8s. Repeated triggers reset the duration. When any enemy on the field is stunned, the equipper's DMG increases by 25% for 18s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Shockstar Disco",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/8/81/Drive_Disc_Shockstar_Disco_Icon.png/revision/latest?cb=20241222110749",
+      "2piece": "Increases Impact by 6%.",
+      "4piece": "Basic Attacks, Dash Attacks, and Dodge Counters inflict 20% more Daze to the main target."
+    },
+    {
+      "set": "Soul Rock",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b6/Drive_Disc_Soul_Rock_Icon.png/revision/latest?cb=20241223020006",
+      "2piece": "Increases DEF by 16%.",
+      "4piece": "Upon receiving an enemy attack and losing HP, the equipper takes 40% less DMG for 2.5s. This effect can trigger once every 15s."
+    },
+    {
+      "set": "Swing Jazz",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/3/3e/Drive_Disc_Swing_Jazz_Icon.png/revision/latest?cb=20241222110616",
+      "2piece": "Energy Regen increases by 20%.",
+      "4piece": "Launching a Chain Attack or Ultimate increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack."
+    },
+    {
+      "set": "The Sky Ablaze",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f6/Drive_Disc_The_Sky_Ablaze_Icon.png/revision/latest?cb=20260617075447",
+      "2piece": "Ether DMG +10%",
+      "4piece": "When the equipper is an Ether attribute Agent, their CRIT DMG increases by 30%. When the equipper uses an EX Special Attack or Ultimate, their ATK increases by 10% for 30s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Thorned Rose",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/0/08/Drive_Disc_Thorned_Rose_Icon.png/revision/latest?cb=20260731225004",
+      "2piece": "DEF +16%",
+      "4piece": "The equipper's DMG increases by 15%. When the equipper's initial DEF is at least 1,000/1,800, CRIT Rate increases by 8/16%."
+    },
+    {
+      "set": "Thunder Metal",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2b/Drive_Disc_Thunder_Metal_Icon.png/revision/latest?cb=20241222104206",
+      "2piece": "Increases Electric DMG by 10%.",
+      "4piece": "As long as an enemy in combat is Shocked, the equipper's ATK is increased by 28%."
+    },
+    {
+      "set": "White Water Ballad",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/6/61/Drive_Disc_White_Water_Ballad_Icon.png/revision/latest?cb=20251231144251",
+      "2piece": "Increases Physical DMG by 10%.",
+      "4piece": "When the equipper is within any Ether Veil, their CRIT Rate increases by 10%. After leaving Ether Veil, this bonus remains for 15s. If the equipper is an Attack character, activating an Ether Veil or extending an Ether Veil grants an additional 10% CRIT Rate and 10% ATK for 30s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Woodpecker Electro",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/1/1c/Drive_Disc_Woodpecker_Electro_Icon.png/revision/latest?cb=20241222223444",
+      "2piece": "Increases CRIT Rate by 8%.",
+      "4piece": "Landing a critical hit on an enemy with a Basic Attack, Dodge Counter, or EX Special Attack increases the equipper's ATK by 9% for 6s. The buff duration for different skills are calculated separately."
+    },
+    {
+      "set": "Wuthering Salon",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/f/f2/Drive_Disc_Wuthering_Salon_Icon.png/revision/latest?cb=20260617075312",
+      "2piece": "Wind DMG +10%",
+      "4piece": "When the equipper uses an EX Special Attack, their Anomaly Proficiency increases by 25 for 40s, stacking up to 2 times. Repeated triggers reset the duration. When the equipper triggers Windswept, their DMG increases by 18% for 40s. Repeated triggers reset the duration."
+    },
+    {
+      "set": "Yunkui Tales",
+      "img": "https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c7/Drive_Disc_Yunkui_Tales_Icon.png/revision/latest?cb=20250607050425",
+      "2piece": "HP +10%",
+      "4piece": "When using EX Special Attack, Chain Attack, or Ultimate, CRIT Rate increases by 4%, stacking up to 3 times and lasting 15s. Repeated triggers reset the duration. When having 3 stacks of this effect, Sheer DMG increases by 10%."
+    }
+  ]
+}

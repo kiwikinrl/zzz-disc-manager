@@ -1,0 +1,43 @@
+{
+    "meta": {
+      "last_updated": "2026-Oct-24",
+      "Contributors": ["KiwiKin", "zenless-zone-zero.fandom.com/wiki/"],
+      "Note": "in case of future changes, just add/modify their array value."
+    },
+    "main":{
+        "slot1":["Flat HP"], 
+        "slot2":["Flat ATK"],
+        "slot3":["Flat DEF"], 
+        "slot4":["HP%", "ATK%", "DEF%", "CRIT Rate%", "CRIT DMG%", "Anomaly Proficiency"],
+        "slot5":["HP%", "ATK%", "DEF%", "PEN Ratio%", "Attribute DMG Bonus%"],
+        "slot6":["HP%", "ATK%", "DEF%", "Anomaly Mastery%", "Impact%", "Energy Regen%"]
+    },
+    "subs":[
+        "Flat HP",
+        "Flat ATK",
+        "Flat DEF",
+        "HP%",
+        "ATK%",
+        "DEF%",
+        "CRIT Rate%",
+        "CRIT DMG%", 
+        "Anomaly Proficiency",
+        "PEN"
+    ],
+    "canonical":{
+        "atk": "Flat ATK",
+        "hp": "Flat HP",
+        "def": "Flat DEF",
+        "pen": "Flat PEN",
+        "hppct": "HP%",
+        "atkpct": "ATK%",
+        "defpct": "DEF%",
+        "critrate": "CRIT Rate%",
+        "critdmg": "CRIT DMG%",
+        "anomalymastery": "Anomaly Mastery%",
+        "anomalyproficiency": "Anomaly Proficiency",
+        "impact": "Impact%",
+        "energyregen": "Energy Regen%",
+        "penratio": "PEN Ratio%"
+    }
+}

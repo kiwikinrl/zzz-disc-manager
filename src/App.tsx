@@ -140,7 +140,7 @@ export default function App() {
           v{database.version} · Builds: {builds.length}
         </div>
         <div>
-
+          Hosted From: <a className="link-button" href="ttps://github.com/kiwikinrl/zzz-disc-manager">https://github.com/kiwikinrl/zzz-disc-manager</a>
         </div>
         </footer>
     </div>

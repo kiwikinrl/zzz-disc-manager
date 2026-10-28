@@ -26,6 +26,8 @@ footer {
   color: #6b6375;
   font-size: 12px;
   min-height: 24px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .app {

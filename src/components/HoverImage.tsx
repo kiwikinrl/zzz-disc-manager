@@ -69,7 +69,7 @@ export default function HoverImage({ src, alt, className, children }: HoverImage
       {children}
       {cursor !== null ? (
         <span ref={dialogRef} className="hover-dialog" style={dialogStyle} role="tooltip">
-          {src ? <img src={src} alt={alt} className="hover-dialog-img" /> : <span className="hover-dialog-fallback">{alt}</span>}
+          {src ? <img src={src} alt={alt} className="hover-dialog-img" loading="lazy"/> : <span className="hover-dialog-fallback">{alt}</span>}
         </span>
       ) : null}
     </span>

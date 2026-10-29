@@ -4,7 +4,7 @@ import recommendationsData from "../resources/recommend.json";
 import type { Build, Character, DatabaseShape, Disc, Recommendation } from "./types";
 
 const DATABASE_KEY = "zzz-disc-manager:database";
-const DATABASE_VERSION = "26.10.4 (alpha)";
+const DATABASE_VERSION = "26.10.6 (alpha)";
 
 interface CharactersFile {
   characters: Character[];

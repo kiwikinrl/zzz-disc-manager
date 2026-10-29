@@ -4,6 +4,7 @@ import { getDismantleStats, getKeepStats } from "../lib/recommended-stats";
 import HoverImage from "./HoverImage";
 import DiscStatsTable from "./DiscStatsTable";
 import SearchInput from "./SearchInput";
+import Sources from "./Sources";
 import type { Build, Disc, EquippedDisc, Recommendation } from "../lib/types";
 
 interface DiscDetailProps {
@@ -39,13 +40,13 @@ export default function DiscDetail({
         <h2>Discs</h2>
         <div className="detail-section">
           <div className="panel-search">
-            <SearchInput value={search} onChange={onSearchChange} placeholder="Search discs..." onFilter={onFilter} />
+            <SearchInput value={search} onChange={onSearchChange} placeholder="Disc" onFilter={onFilter} />
           </div>
           <div className="item-grid">
             {discs.map((d) => (
               <div key={d.set} className="item-grid-item">
                 <button type="button" className="item-grid-card" onClick={() => onSelectDisc(d.set)}>
-                  <img src={getDiscImage(d)} alt={d.set} className="item-grid-img" />
+                  <img src={getDiscImage(d)} alt={d.set} className="item-grid-img" loading="lazy"/>
                   <span className="item-grid-name">{d.set}</span>
                 </button>
               </div>
@@ -90,7 +91,7 @@ export default function DiscDetail({
     <section className="detail">
       <div className="detail-header">
         <div className="detail-header-img">
-            <img src={getDiscImage(disc)} alt={disc.set} className="detail-image" />
+            <img src={getDiscImage(disc)} alt={disc.set} className="detail-image" loading="lazy"/>
         </div>
 
         <div className="detail-header-content">
@@ -202,6 +203,7 @@ export default function DiscDetail({
             Sub Stats: {formatStatList(dismantleStats.subs)}
           </div>
         </div>
+        <Sources />
       </div>
     </section>
   );

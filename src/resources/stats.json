@@ -1,7 +1,10 @@
 {
     "meta": {
       "last_updated": "2026-Oct-24",
-      "Contributors": ["KiwiKin", "zenless-zone-zero.fandom.com/wiki/"],
+      "Contributors": [
+        "KiwiKin", 
+        "https://zenless-zone-zero.fandom.com/wiki/Drive_Disc"
+        ],
       "Note": "in case of future changes, just add/modify their array value."
     },
     "main":{

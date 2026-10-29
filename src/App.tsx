@@ -1,9 +1,8 @@
 import { useMemo, useState } from "react";
 import TopNav from "./components/TopNav";
 import CharacterDetail from "./components/CharacterDetail";
-import CharacterList from "./components/CharacterList";
+import LeftList from "./components/LeftList";
 import DiscDetail from "./components/DiscDetail";
-import DiscList from "./components/DiscList";
 import { exportBuildsToJson, importBuildsFromJson } from "./lib/buildIO";
 import { getCharacters, getDiscs, getRecommendations } from "./lib/recommend";
 import { loadDatabase, saveDatabase, upsertBuild } from "./lib/storage";
@@ -108,8 +107,9 @@ export default function App() {
         {tab === "characters" ? (
           <div className="layout">
             {showCharacterPanel ? (
-              <CharacterList
-                characters={filteredCharacters}
+              <LeftList
+                items={filteredCharacters}
+                title="Characters"
                 selected={selectedCharacter}
                 onSelect={handleSelectCharacter}
                 search={characterQuery}
@@ -130,8 +130,9 @@ export default function App() {
         ) : (
           <div className="layout">
             {showDiscPanel ? (
-              <DiscList
-                discs={filteredDiscs}
+              <LeftList
+                items={filteredDiscs}
+                title="Discs"
                 selected={selectedDisc}
                 onSelect={handleSelectDisc}
                 search={discQuery}

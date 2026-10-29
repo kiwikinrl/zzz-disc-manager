@@ -35,7 +35,7 @@
 - [x] Style table for characters."Stats Required by Characters" 
 - [x] Update character & recommend JSON to support stats.json, used for "Recommend to Keep" and "Recommend for Dismantle" calculations.
 - [ ] Add height limit & scroll for characters."Recommended Disc Drives Sets", disc."Recommended Characters"+"Stats Required by Characters"  
-- [ ] Add System Wide Credit Information
+- [x] Add System Wide Credit Information
 - [Planning] Plan for filter button actions & logics.
 - [Planning] Redesign Discs Tab Recommendation Section
   - Recommend to Keep & for Dismantle in same line

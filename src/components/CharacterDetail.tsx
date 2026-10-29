@@ -2,6 +2,7 @@ import { getDiscImage, getDiscBySet, getImageForCategory, getRecommendationsByCh
 import HoverImage from "./HoverImage";
 import DiscStatsTable from "./DiscStatsTable";
 import SearchInput from "./SearchInput";
+import Sources from "./Sources";
 import type { Character } from "../lib/types";
 
 interface CharacterDetailProps {
@@ -44,13 +45,13 @@ export default function CharacterDetail({
         <h2>Characters</h2>
         <div className="detail-section">
           <div className="panel-search">
-            <SearchInput value={search} onChange={onSearchChange} placeholder="Search characters..." onFilter={onFilter} />
+            <SearchInput value={search} onChange={onSearchChange} placeholder="Character" onFilter={onFilter} />
           </div>
           <div className="item-grid">
             {characters.map((c) => (
               <div key={c.character} className="item-grid-item">
                 <button type="button" className="item-grid-card" onClick={() => onSelectCharacter(c.character)}>
-                  <img src={c.img} alt={c.character} className="item-grid-img" />
+                  <img src={c.img} alt={c.character} className="item-grid-img" loading="lazy"/>
                   <span className="item-grid-name">{c.character}</span>
                 </button>
               </div>
@@ -69,7 +70,7 @@ export default function CharacterDetail({
     <section className="detail">
       <div className="detail-header">
         <div className="detail-header-img">
-          <img src={character.img} alt={character.rarity} className="detail-image" />
+          <img src={character.img} alt={character.rarity} className="detail-image" loading="lazy"/>
         </div>
 
         <div className="detail-header-content">
@@ -77,13 +78,13 @@ export default function CharacterDetail({
             <h2>{character.character}</h2>
             <div>
               {getImageForCategory("faction", character.faction) ? (
-                <img src={getImageForCategory("faction", character.faction)} alt={character.faction} className="detail-subimage" />
+                <img src={getImageForCategory("faction", character.faction)} alt={character.faction} className="detail-subimage" loading="lazy"/>
               ) : null}
               {getImageForCategory("attribute", character.attribute) ? (
-                <img src={getImageForCategory("attribute", character.attribute)} alt={character.attribute} className="detail-subimage" />
+                <img src={getImageForCategory("attribute", character.attribute)} alt={character.attribute} className="detail-subimage" loading="lazy"/>
               ) : null}
               {getImageForCategory("specialty", character.specialty) ? (
-                <img src={getImageForCategory("specialty", character.specialty)} alt={character.specialty} className="detail-subimage" />
+                <img src={getImageForCategory("specialty", character.specialty)} alt={character.specialty} className="detail-subimage" loading="lazy"/>
               ) : null}
             </div>
           </div>
@@ -165,6 +166,7 @@ export default function CharacterDetail({
             <div className="detail-block">No Stats Available.</div>
           )}
         </div>
+        <Sources />
       </div>
     </section>
   );
